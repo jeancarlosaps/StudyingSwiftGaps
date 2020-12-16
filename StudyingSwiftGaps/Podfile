@@ -1,0 +1,7 @@
+# Set the platform globally
+platform :ios, '10.0'
+use_frameworks!
+
+target 'StudyingSwiftGaps' do
+    pod 'Alamofire', '~> 5.2'
+end
